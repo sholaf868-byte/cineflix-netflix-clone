@@ -1,0 +1,1 @@
+{"name":"cineflix-backend","version":"1.0.0","type":"module","main":"server.js","scripts":{"dev":"node --watch server.js","start":"node server.js"},"dependencies":{"express":"^4.19.2","cors":"^2.8.5","jsonwebtoken":"^9.1.2","bcryptjs":"^2.4.3","dotenv":"^16.4.5"}}
