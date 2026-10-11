@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional PNPM cache directory
+.pnpm-debug.log
